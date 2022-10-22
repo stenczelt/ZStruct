@@ -3,7 +3,7 @@
 
 
 #include "utils.h"
-#include "omp.h"
+//#include "omp.h"
 using namespace std;
 //#include <Accelerate/Accelerate.h>
 //#include <vecLib/clapack.h>

@@ -46,7 +46,7 @@
 #include "print.h"
 #include "utils.h"
 #include "nbo.h"
-#include <omp.h>
+//#include <omp.h>
 
 
 using namespace std;
