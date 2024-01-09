@@ -2,8 +2,8 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "zstruct.h"
-#include "constants.h"
+#include "../include/zstruct.h"
+#include "../include/constants.h"
 
 //BUG: 2 coordinate H will break H-transfer (fixed?)
 //NOTE: perhaps don't add break move to H in get_h_transfer?

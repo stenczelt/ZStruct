@@ -13,8 +13,10 @@ find_package(OpenMP REQUIRED)
 find_package(LAPACK REQUIRED)
 link_libraries(${LAPACK_LIBRARIES})
 
+include_directories(include)
+
 # sources
-file(GLOB ${PROJECT_NAME}_sources "*.cpp")
+file(GLOB ${PROJECT_NAME}_sources "src/*.cpp")
 message(STATUS "Sources for project ${PROJECT_NAME}: ${${PROJECT_NAME}_sources}")
 
 # "object library" target: compiles the sources only once

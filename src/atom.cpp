@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "atom.h"
+#include "../include/atom.h"
 using namespace std;
 
 //NOTE: remove init'd error messages

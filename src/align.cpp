@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "align.h"
+#include "../include/align.h"
 using namespace std;
 
 //to do

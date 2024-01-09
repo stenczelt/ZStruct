@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "knnr.h"
+#include "../include/knnr.h"
 
 //was using 0.25 and 0.25/1.0
 //note using 1.0 leads to many out of set hits

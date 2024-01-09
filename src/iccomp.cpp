@@ -2,10 +2,10 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "zstruct.h"
-#include "utils.h"
-#include "constants.h"
-#include "print.h"
+#include "../include/zstruct.h"
+#include "../include/utils.h"
+#include "../include/constants.h"
+#include "../include/print.h"
 
 
 

@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "icoord.h"
+#include "../include/icoord.h"
 
 void ICoord::freemem(){
 

@@ -2,9 +2,9 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "nbo.h"
-#include "constants.h"
-#include "zstruct.h"
+#include "../include/nbo.h"
+#include "../include/constants.h"
+#include "../include/zstruct.h"
 using namespace std;
 
 //TO DO:

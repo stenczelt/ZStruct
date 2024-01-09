@@ -1,4 +1,4 @@
-#include "pTable.h"
+#include "../include/pTable.h"
 
 char atom_symbol[103][3]={"00",
 			 "H","He","Li","Be","B","C","N","O","F","Ne",

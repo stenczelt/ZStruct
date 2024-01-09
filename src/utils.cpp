@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "utils.h"
+#include "../include/utils.h"
 #include "omp.h"
 using namespace std;
 //#include <Accelerate/Accelerate.h>

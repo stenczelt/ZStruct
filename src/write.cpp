@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "zstruct.h"
+#include "../include/zstruct.h"
 
 
 int ZStruct::get_frozen(int nreact1)

@@ -16,7 +16,7 @@
  ***************************************************************************/
 
 
-#include "stringtools.h"
+#include "../include/stringtools.h"
 
 using namespace std;
 

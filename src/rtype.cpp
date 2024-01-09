@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "rtype.h"
+#include "../include/rtype.h"
 
 
 void RTYPE::print()

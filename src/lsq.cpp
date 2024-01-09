@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "lsq.h"
+#include "../include/lsq.h"
 using namespace std;
 
 

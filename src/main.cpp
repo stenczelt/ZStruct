@@ -6,14 +6,14 @@
 #include <fstream>
 #include <stdio.h>
 
-#include "zstruct.h"
-#include "rxndb.h"
-#include "knnr.h"
-#include "lsq.h"
-#include "rxnftr.h"
-#include "icoord.h"
-#include "align.h"
-#include "utils.h"
+#include "../include/zstruct.h"
+#include "../include/rxndb.h"
+#include "../include/knnr.h"
+#include "../include/lsq.h"
+#include "../include/rxnftr.h"
+#include "../include/icoord.h"
+#include "../include/align.h"
+#include "../include/utils.h"
 double read_temperature();
 
 using namespace std;

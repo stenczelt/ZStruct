@@ -2,8 +2,8 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "icoord.h"
-#include "utils.h"
+#include "../include/icoord.h"
+#include "../include/utils.h"
 using namespace std;
 
 #define SHADOWFACTOR 1.5

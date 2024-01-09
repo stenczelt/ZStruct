@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "rxndb.h"
+#include "../include/rxndb.h"
 using namespace std;
 
 ///NOTE: now 60kT 

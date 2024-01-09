@@ -2,7 +2,7 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "rxnftr.h"
+#include "../include/rxnftr.h"
 using namespace std;
 
 

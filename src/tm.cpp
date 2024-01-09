@@ -2,8 +2,8 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "zstruct.h"
-#include "constants.h"
+#include "../include/zstruct.h"
+#include "../include/constants.h"
 
 #define OVERRIDE_TYPE 0
 #define ANGLE_LINEAR 150.0

@@ -2,8 +2,8 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "dft.h"
-#include "constants.h"
+#include "../include/dft.h"
+#include "../include/constants.h"
 //#include "utils.h"
 using namespace std;
 

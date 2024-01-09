@@ -2,10 +2,10 @@
 // Author: Paul Zimmerman, University of Michigan //
 
 
-#include "mopac.h"
+#include "../include/mopac.h"
 //#include "utils.h"
 using namespace std;
-#include "constants.h"
+#include "../include/constants.h"
 
 //NOTE: max time for MOPAC: 45M
 #define MOPAC_LEVEL        "PM6 NOSYM T=10M AUX LOCALIZE"
