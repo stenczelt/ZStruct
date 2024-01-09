@@ -6,9 +6,9 @@
 #include "omp.h"
 using namespace std;
 //#include <Accelerate/Accelerate.h>
-//#include <vecLib/clapack.h>
+#include <vecLib/clapack.h>
 //#include "/export/apps/Intel/Compiler/11.1/075/mkl/include/mkl.h"
-#include <mkl.h>
+//#include <mkl.h>
 
 const double BOHRtoANG=0.52917720859;
 const double ANGtoBOHR =1.0000000/BOHRtoANG;
